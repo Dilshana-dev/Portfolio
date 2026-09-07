@@ -183,7 +183,7 @@ function Index() {
               Indie game developer · Dilshana
             </p>
             <h1 className="text-balance font-display text-6xl leading-[0.95] md:text-[8rem] md:leading-[0.9]">
-              Unreal Engine Games Development
+              Unreal Engine Games Development + Web Development <br />
               <br />
               <em className="italic text-moon"> {/*under the moon.*/}</em>
             </h1>
