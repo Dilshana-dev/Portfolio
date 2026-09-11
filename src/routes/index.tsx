@@ -156,7 +156,7 @@ function Index() {
       <header className="relative z-20 mx-auto flex max-w-7xl items-center justify-between px-6 py-6 md:px-10">
         <a href="#top" className="flex items-center gap-2 font-display text-xl">
           <span className="inline-block h-2.5 w-2.5 rounded-full bg-moon shadow-[0_0_20px_var(--color-moon-glow)]" />
-          Luna Vale
+          Dilshana-Dev
         </a>
         <nav className="hidden gap-8 text-sm text-muted-foreground md:flex">
           <a href="#work" className="hover:text-foreground transition-colors">Work</a>
