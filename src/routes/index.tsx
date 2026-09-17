@@ -300,6 +300,13 @@ A third-year Software Engineering student with a passion for game development, g
                 height={1100}
                 className="h-full w-full object-cover"
               />
+
+               {/* Normal gradient */}
+                <div className="absolute inset-0 bg-gradient-to-t from-background/60 via-transparent to-transparent" />
+
+
+
+              
               <div className="absolute inset-0 bg-gradient-to-t from-background/60 via-transparent to-transparent" />
             </div>
           </div>
